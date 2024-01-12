@@ -1,6 +1,6 @@
 # Webservice Online Market Place Platform
 
-OmniStock is a powerful multi-store inventory management system designed to streamline the inventory management process across multiple stores. It provides individual store managers with the tools they need to efficiently manage inventory, while a central administration module allows for oversight and control of the entire system. With OmniStock, you can easily track inventory, facilitate inventory transfers between stores, and manage different product categories.
+Online Market Place Platform is a powerful multi-store inventory management system designed to streamline the inventory management process across multiple stores. It provides individual store managers with the tools they need to efficiently manage inventory, while a central administration module allows for oversight and control of the entire system. With OmniStock, you can easily track inventory, facilitate inventory transfers between stores, and manage different product categories.
 
 ## Key Features
 
