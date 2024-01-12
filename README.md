@@ -13,7 +13,7 @@ OmniStock is a powerful multi-store inventory management system designed to stre
 
 ## Installation
 
-1. Clone the repository: `https://github.com/EbisaGirma21/OmniStock.git`
+1. Clone the repository: `https://github.com/EbisaGirma21/web_service_online_market_place.git`
 2. Install the required dependencies: `npm install`
 3. Configure the database connection in the `index.js` file.
 4. Run the application: `npm start`
