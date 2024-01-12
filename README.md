@@ -40,7 +40,7 @@ Online Market Place Platform is a powerful multi-store inventory management syst
 
 ## Contributing
 
-Contributions to OmniStock are welcome! If you would like to contribute, please follow these steps:
+Contributions to Online Market Place Platform are welcome! If you would like to contribute, please follow these steps:
 
 1. Fork the repository.
 2. Create a new branch for your feature: `git checkout -b feature-name`
